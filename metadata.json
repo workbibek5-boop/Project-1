@@ -1,0 +1,8 @@
+{
+  "name": "Wholesale Business Management System",
+  "description": "Secure wholesale garment and clothing distribution management system with B2B catalogue, tiered order limits, invoicing, payment verification, dispatch tracking, and private accounting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
